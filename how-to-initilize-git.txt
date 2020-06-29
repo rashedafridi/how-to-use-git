@@ -5,3 +5,10 @@ commit your changes :git commit -m "commite massage"
 hihi
     git config --global user.name "Your Name"
     git config --global user.email rashedafridi@gmail.com
+role back by :git checkout how-to-initilize-git.txt
+
+uplode to github by using below command :
+git remote add origin https://github.com/rashedafridi/how-to-use-git.git
+git push -u origin master
+
+
