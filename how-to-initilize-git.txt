@@ -1,0 +1,3 @@
+git init
+chack status by cimand :git status
+add new file to git :git add (file name)/git add .(// "." fore all file);
