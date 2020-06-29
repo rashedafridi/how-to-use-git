@@ -10,5 +10,7 @@ role back by :git checkout how-to-initilize-git.txt
 uplode to github by using below command :
 git remote add origin https://github.com/rashedafridi/how-to-use-git.git
 git push -u origin master
+this is the b1 branch
+
 
 
