@@ -3,3 +3,5 @@ chack status by cimand :git status
 add new file to git :git add (file name)/git add .(// "." fore all file);
 commit your changes :git commit -m "commite massage"
 hihi
+    git config --global user.name "Your Name"
+    git config --global user.email rashedafridi@gmail.com
